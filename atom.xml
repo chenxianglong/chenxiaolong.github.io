@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>陈小龙同学</title>
+  <subtitle>很奇怪，我们不屑与他人为伍，却害怕自己与众不同。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-11-18T09:02:59.821Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>陈小龙同学</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world!</title>
+    <link href="http://yoursite.com/2016/11/17/hello-world-1/"/>
+    <id>http://yoursite.com/2016/11/17/hello-world-1/</id>
+    <published>2016-11-17T12:24:41.000Z</published>
+    <updated>2016-11-18T09:02:59.821Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world!"></a>Hello world!</h3><hr>
+<p>陈小龙同学<br>11/17/2016 8:27:01 PM </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Hello-world&quot;&gt;&lt;a href=&quot;#Hello-world&quot; class=&quot;headerlink&quot; title=&quot;Hello world!&quot;&gt;&lt;/a&gt;Hello world!&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;陈小龙同学&lt;br&gt;11/17/2016 8:27:01
+    
+    </summary>
+    
+    
+      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
+    
+      <category term="world" scheme="http://yoursite.com/tags/world/"/>
+    
+  </entry>
+  
+</feed>
