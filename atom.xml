@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-22T07:25:58.894Z</updated>
+  <updated>2016-11-25T06:13:58.152Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,19 +16,48 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>微信小程序</title>
+    <link href="http://yoursite.com/2016/11/25/weixinxiaochengxu/"/>
+    <id>http://yoursite.com/2016/11/25/weixinxiaochengxu/</id>
+    <published>2016-11-25T01:59:05.000Z</published>
+    <updated>2016-11-25T06:13:58.152Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="微信小程序"><a href="#微信小程序" class="headerlink" title="微信小程序"></a>微信小程序</h2><p>微信小程序，简称CX，是一种不需要下载安装即可使用的应用，它实现了应用“触手可及”的梦想，用户扫一扫或搜一下即可打开应用。</p>
+<h3 id="微信小程序不是机遇，它只是用户价值"><a href="#微信小程序不是机遇，它只是用户价值" class="headerlink" title="微信小程序不是机遇，它只是用户价值"></a>微信小程序不是机遇，它只是用户价值</h3><p>上个月微信小程序正式开放公测，那几天正好在老家休息，真是措手不及。微信小程序从发布到公测戳中无数人 G 点，引发了名称抢注热潮，整个朋友圈人声鼎沸，仿佛自己回到了 2012 年公众账号推出的时代，能够预见未来。<br><a id="more"></a><br>为什么不认为它是机遇呢？一个平台的成功需要有一个大前提，就是能够打破旧有的阶级，开放出新的上升通道，完成阶级流动。公众账号让原本在微博上不能成名的人，可以完成从屌丝到自媒体的转变，甚至具备极大的影响力。</p>
+<p>如果说小程序有这样的早期红利的话，那么很可惜，他也不在屌丝手里，前期收到内测邀请的人都是现在公众账号的利益既得者，小程序只是对他们的一次增益。</p>
+<p>如果你以投机的心态去做微信小程序，那么可能你会大失所望，小程序是微信对用户价值的一次表达，微信用自身的影响力，去逼大家给产品做减法。</p>
+<p>那么为什么说他是用户价值呢？小程序是真的有用，但用处也真的是给用户的，微信开放了一部分能力，让你能以更轻的方式触及用户，把服务传递给用户，但这背后的本质，依旧是你要有好产品。</p>
+<p>很多人都有一个疑问，就是小程序可以用来做什么，你的逻辑是不对的，小程序就是让你的产品可以以更轻的方式触及用户，你应该想的是自己的产品最核心的东西是什么，如何让这部分能力可以极简到小程序里。</p>
+<h3 id="微信小程序，我们能做什么"><a href="#微信小程序，我们能做什么" class="headerlink" title="微信小程序，我们能做什么"></a>微信小程序，我们能做什么</h3><p>TODO</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;微信小程序&quot;&gt;&lt;a href=&quot;#微信小程序&quot; class=&quot;headerlink&quot; title=&quot;微信小程序&quot;&gt;&lt;/a&gt;微信小程序&lt;/h2&gt;&lt;p&gt;微信小程序，简称CX，是一种不需要下载安装即可使用的应用，它实现了应用“触手可及”的梦想，用户扫一扫或搜一下即可打开应用。&lt;/p&gt;
+&lt;h3 id=&quot;微信小程序不是机遇，它只是用户价值&quot;&gt;&lt;a href=&quot;#微信小程序不是机遇，它只是用户价值&quot; class=&quot;headerlink&quot; title=&quot;微信小程序不是机遇，它只是用户价值&quot;&gt;&lt;/a&gt;微信小程序不是机遇，它只是用户价值&lt;/h3&gt;&lt;p&gt;上个月微信小程序正式开放公测，那几天正好在老家休息，真是措手不及。微信小程序从发布到公测戳中无数人 G 点，引发了名称抢注热潮，整个朋友圈人声鼎沸，仿佛自己回到了 2012 年公众账号推出的时代，能够预见未来。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="WeChat小程序" scheme="http://yoursite.com/categories/WeChat%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="微信小程序" scheme="http://yoursite.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hello world!</title>
     <link href="http://yoursite.com/2016/11/17/hello-world-1/"/>
     <id>http://yoursite.com/2016/11/17/hello-world-1/</id>
     <published>2016-11-17T12:24:41.000Z</published>
-    <updated>2016-11-22T07:25:58.894Z</updated>
+    <updated>2016-11-25T06:17:43.540Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world!"></a>Hello world!</h3><hr>
-<p>陈小龙同学<br>11/17/2016 8:27:01 PM </p>]]></content>
+<p>陈小龙同学<br>11/17/2016 8:27:01 PM<br><a id="more"></a></p>]]></content>
     
     <summary type="html">
     
       &lt;h3 id=&quot;Hello-world&quot;&gt;&lt;a href=&quot;#Hello-world&quot; class=&quot;headerlink&quot; title=&quot;Hello world!&quot;&gt;&lt;/a&gt;Hello world!&lt;/h3&gt;&lt;hr&gt;
-&lt;p&gt;陈小龙同学&lt;br&gt;11/17/2016 8:27:01
+&lt;p&gt;陈小龙同学&lt;br&gt;11/17/2016 8:27:01 PM&lt;br&gt;
     
     </summary>
     
