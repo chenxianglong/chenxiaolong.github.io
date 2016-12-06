@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-25T06:13:58.152Z</updated>
+  <updated>2016-12-06T13:20:57.659Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>上网那点事</title>
+    <link href="http://yoursite.com/2016/11/27/kexueshangwang/"/>
+    <id>http://yoursite.com/2016/11/27/kexueshangwang/</id>
+    <published>2016-11-27T09:20:48.000Z</published>
+    <updated>2016-12-06T13:20:57.659Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="上网那点事"><a href="#上网那点事" class="headerlink" title="上网那点事"></a>上网那点事</h2><p>面向小白的科学上网指南</p>
+<h3 id="世界那么大，我想去看看－－科学上网指南"><a href="#世界那么大，我想去看看－－科学上网指南" class="headerlink" title="世界那么大，我想去看看－－科学上网指南"></a>世界那么大，我想去看看－－科学上网指南</h3><p>   <strong>背景：</strong><br>本文旨在为愿意突破GFW的封锁却又不知道如何实现的人提供一些善意的帮助。已经相当翻墙经验的人士请不要阅读本文。</p>
+<p>互联网作为一个人类共享的平等、自由、多元的世界，不能因为任何原因被人为切割成一个孤岛。如果这堵墙不能被推倒，那我们应尽其所能地无视它。<br><a id="more"></a><br>2、基本现状<br>以Facebook和Google为例，目前不能访问这两个网站的国家只有北朝鲜和其他国家。伊朗、泰国和古巴在最近先后解除了封锁，而朝鲜则在2016年4月宣布正式封锁Facebook，并且声明访问该网站将会受到朝鲜法律的制裁。扎克伯格于今年高调访问中国后…就没有然后了。</p>
+<p>在中国大陆，网络封锁的范围日益扩大。2015年是标志性的一年，Google和中文维基百科彻底无法访问，GFW的封锁能力也明显增强，使得大量翻墙工具的运行状态不稳定。<br><img src="http://ogvnbyzft.bkt.clouddn.com/kexueshangwang-1.png"><br>3、什么是翻墙？<br>反GFW的动作称为翻墙、“科学上网”或破网。如果GFW是一堵墙，那么翻墙就需要梯子。梯子不是本来就在那里的，而是有提供梯子的人。没有他们，我们不可能跨越那堵墙，尤其要感谢为此付出的非营利组织和个人。</p>
+<p>在中国大陆，没有法律明确规定“翻墙”是违法行为，虽然政府高层人员在回答记者提问时说这是“依法”管理互联网。实际上官方对翻墙行为态度暧昧，2016年发生的中国大陆网友“远征”Facebook事件中，官方称应鼓励两岸交流，实际上对“翻墙”持默认态度。</p>
+<p>翻墙有多种方式，本文仅对免费、简便和相对安全的翻墙方式做介绍。</p>
+<h2 id="关键词搜索"><a href="#关键词搜索" class="headerlink" title="关键词搜索"></a>关键词搜索</h2><p>懒癌症又犯了~，~回头慢慢补吧</p>
+<hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;上网那点事&quot;&gt;&lt;a href=&quot;#上网那点事&quot; class=&quot;headerlink&quot; title=&quot;上网那点事&quot;&gt;&lt;/a&gt;上网那点事&lt;/h2&gt;&lt;p&gt;面向小白的科学上网指南&lt;/p&gt;
+&lt;h3 id=&quot;世界那么大，我想去看看－－科学上网指南&quot;&gt;&lt;a href=&quot;#世界那么大，我想去看看－－科学上网指南&quot; class=&quot;headerlink&quot; title=&quot;世界那么大，我想去看看－－科学上网指南&quot;&gt;&lt;/a&gt;世界那么大，我想去看看－－科学上网指南&lt;/h3&gt;&lt;p&gt;   &lt;strong&gt;背景：&lt;/strong&gt;&lt;br&gt;本文旨在为愿意突破GFW的封锁却又不知道如何实现的人提供一些善意的帮助。已经相当翻墙经验的人士请不要阅读本文。&lt;/p&gt;
+&lt;p&gt;互联网作为一个人类共享的平等、自由、多元的世界，不能因为任何原因被人为切割成一个孤岛。如果这堵墙不能被推倒，那我们应尽其所能地无视它。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="科学上网" scheme="http://yoursite.com/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+      <category term="关键词搜索" scheme="http://yoursite.com/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/%E5%85%B3%E9%94%AE%E8%AF%8D%E6%90%9C%E7%B4%A2/"/>
+    
+      <category term="快捷键切换" scheme="http://yoursite.com/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/%E5%85%B3%E9%94%AE%E8%AF%8D%E6%90%9C%E7%B4%A2/%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%88%87%E6%8D%A2/"/>
+    
+    
+      <category term="杂识" scheme="http://yoursite.com/tags/%E6%9D%82%E8%AF%86/"/>
+    
+  </entry>
   
   <entry>
     <title>微信小程序</title>
