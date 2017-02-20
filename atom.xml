@@ -4,9 +4,9 @@
   <subtitle>很奇怪，我们不屑与他人为伍，却害怕自己与众不同。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-12-06T13:28:05.800Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://chenxianglong.me/"/>
+  <updated>2017-02-20T01:24:23.976Z</updated>
+  <id>http://chenxianglong.me/</id>
   
   <author>
     <name>陈小龙同学</name>
@@ -17,19 +17,31 @@
   
   <entry>
     <title>上网那点事</title>
-    <link href="http://yoursite.com/2016/11/27/kexueshangwang/"/>
-    <id>http://yoursite.com/2016/11/27/kexueshangwang/</id>
-    <published>2016-11-27T09:20:48.000Z</published>
-    <updated>2016-12-06T13:28:05.800Z</updated>
+    <link href="http://chenxianglong.me/2017/02/20/kexueshangwang/"/>
+    <id>http://chenxianglong.me/2017/02/20/kexueshangwang/</id>
+    <published>2017-02-20T01:16:45.000Z</published>
+    <updated>2017-02-20T01:24:23.976Z</updated>
     
     <content type="html"><![CDATA[<h2 id="上网那点事"><a href="#上网那点事" class="headerlink" title="上网那点事"></a>上网那点事</h2><p>面向小白的科学上网指南</p>
 <h3 id="世界那么大，我想去看看－－科学上网指南"><a href="#世界那么大，我想去看看－－科学上网指南" class="headerlink" title="世界那么大，我想去看看－－科学上网指南"></a>世界那么大，我想去看看－－科学上网指南</h3><p>   <strong>背景：</strong><br>本文旨在为愿意突破GFW的封锁却又不知道如何实现的人提供一些善意的帮助。已经相当翻墙经验的人士请不要阅读本文。</p>
-<p>互联网作为一个人类共享的平等、自由、多元的世界，不能因为任何原因被人为切割成一个孤岛。如果这堵墙不能被推倒，那我们应尽其所能地无视它。<br><a id="more"></a><br>2、基本现状<br>以Facebook和Google为例，目前不能访问这两个网站的国家只有北朝鲜和其他国家。伊朗、泰国和古巴在最近先后解除了封锁，而朝鲜则在2016年4月宣布正式封锁Facebook，并且声明访问该网站将会受到朝鲜法律的制裁。扎克伯格于今年高调访问中国后…就没有然后了。</p>
-<p>在中国大陆，网络封锁的范围日益扩大。2015年是标志性的一年，Google和中文维基百科彻底无法访问，GFW的封锁能力也明显增强，使得大量翻墙工具的运行状态不稳定。<br><img src="http://ogvnbyzft.bkt.clouddn.com/kexueshangwang-1.png"><br>3、什么是翻墙？<br>反GFW的动作称为翻墙、“科学上网”或破网。如果GFW是一堵墙，那么翻墙就需要梯子。梯子不是本来就在那里的，而是有提供梯子的人。没有他们，我们不可能跨越那堵墙，尤其要感谢为此付出的非营利组织和个人。</p>
+<p>互联网作为一个人类共享的平等、自由、多元的世界，不能因为任何原因被人为切割成一个孤岛。如果这堵墙不能被推倒，那我们应尽其所能地无视它。<br><a id="more"></a><br>基本现状：<br>以Facebook和Google为例，目前不能访问这两个网站的国家只有北朝鲜和其他国家。伊朗、泰国和古巴在最近先后解除了封锁，而朝鲜则在2016年4月宣布正式封锁Facebook，并且声明访问该网站将会受到朝鲜法律的制裁。扎克伯格于今年高调访问中国后…就没有然后了。</p>
+<p>在中国大陆，网络封锁的范围日益扩大。2015年是标志性的一年，Google和中文维基百科彻底无法访问，GFW的封锁能力也明显增强，使得大量翻墙工具的运行状态不稳定。<br><img src="http://ogvnbyzft.bkt.clouddn.com/kexueshangwang-1.png"><br>什么是翻墙？<br>反GFW的动作称为翻墙、“科学上网”或破网。如果GFW是一堵墙，那么翻墙就需要梯子。梯子不是本来就在那里的，而是有提供梯子的人。没有他们，我们不可能跨越那堵墙，尤其要感谢为此付出的非营利组织和个人。</p>
 <p>在中国大陆，没有法律明确规定“翻墙”是违法行为，虽然政府高层人员在回答记者提问时说这是“依法”管理互联网。实际上官方对翻墙行为态度暧昧，2016年发生的中国大陆网友“远征”Facebook事件中，官方称应鼓励两岸交流，实际上对“翻墙”持默认态度。</p>
 <p>翻墙有多种方式，本文仅对免费、简便和相对安全的翻墙方式做介绍。</p>
-<h2 id="关键词搜索"><a href="#关键词搜索" class="headerlink" title="关键词搜索"></a>关键词搜索</h2><p>懒癌症又犯了~，~回头慢慢补吧</p>
-<hr>]]></content>
+<p>###ISS</p>
+<p>推荐理由：免费、稳定；缺点：每隔6小时更换一次密码；  </p>
+<p>地址：<a href="https://www.ishadowsocks.xyz/" title="ISS" target="_blank" rel="external">https://www.ishadowsocks.xyz/</a>由于一些原因，域名地址会有变化，可以通过搜索ISS找到新的地址；<br>使用方法和客户端网站都有介绍，这里不再重复。</p>
+<h2 id="关键词搜索"><a href="#关键词搜索" class="headerlink" title="关键词搜索"></a>关键词搜索</h2><h3 id="搜索工具"><a href="#搜索工具" class="headerlink" title="搜索工具"></a>搜索工具</h3><p>Search Tools  </p>
+<h4 id="精确搜索结果，site命令"><a href="#精确搜索结果，site命令" class="headerlink" title="精确搜索结果，site命令"></a>精确搜索结果，site命令</h4><p>使用方法： 关键词+site:+网站域名<br>  朗逸博世机滤 site:jd.com<br>平常我们搜素都是直接全网进行搜索，百度引擎的搜索结果前几条基本上都是百度竞（流）价（氓），而且很多网站都是些民间网站，对于这些数据即使你敢信，也绝对不能应用于报告当中。利用google搜索加site命令能够有效避免，site命令能对你制定的站点进行搜索，你会发现，搜索结果都来自于你指定的网站，这样可以有利避免错误信息。  </p>
+<h4 id="google-sec"><a href="#google-sec" class="headerlink" title="google sec"></a>google sec</h4><h4 id="鸠莫搜书-强烈推荐"><a href="#鸠莫搜书-强烈推荐" class="headerlink" title="鸠莫搜书*强烈推荐"></a>鸠莫搜书*强烈推荐</h4><p>爱看书的同志们注意了，这个搜索引擎能够帮助你快速找到你想要的电子书，并且能够直达资源链接进行下载。非常方便使用。知道了这个网址以后，我想你再也找不到不爱读书的理由了。<br><img src="http://ogvnbyzft.bkt.clouddn.com/%E9%B8%A0%E8%8E%AB%E6%90%9C%E4%B9%A6.png"><br>这个搜素引擎不仅能够搜索你想看的电子书，还能够搜素到你工作中需要的PPt、文档等，再也不用为了下载文档而充值百度文库会员啦。  </p>
+<p>网址：<a href="https://www.jiumodiary.com/" target="_blank" rel="external">https://www.jiumodiary.com/</a></p>
+<h2 id="常用快捷键"><a href="#常用快捷键" class="headerlink" title="常用快捷键"></a>常用快捷键</h2><p>电脑快捷键  合理的利用快捷键方式，能够有效的提高工作生产效率。</p>
+<p>Ctrl+C、Ctrl+v 这种的应该就不用讲了<br>Win+D 快速回到桌面   当经理过来的时候可以快速切换到桌面，不过你要想好理由，为什么你对着电脑桌面傻笑<br>Win+E 打开文件资源<br>Alt+Tab 快速切换窗口 能够在两个工作窗口之间实现快速切换<br>Ctrl+Shift+T 恢复刚才关闭的页面</p>
+<p>懒癌症又犯了~，~回头慢慢补吧</p>
+<hr>
+<blockquote>
+<p>本博客会不定期更新一些无关痛痒的内容，哪怕能够给读者带来一丁点的帮助，在我看来都是值得的。博客初建立，如果你觉得本博客内容有可读之处，还希望你能够将本站推荐给你的朋友。转载请注明出处</p>
+</blockquote>]]></content>
     
     <summary type="html">
     
@@ -39,17 +51,17 @@
     
     </summary>
     
-      <category term="科学上网" scheme="http://yoursite.com/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+      <category term="科学上网" scheme="http://chenxianglong.me/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
     
     
-      <category term="杂识" scheme="http://yoursite.com/tags/%E6%9D%82%E8%AF%86/"/>
+      <category term="杂识" scheme="http://chenxianglong.me/tags/%E6%9D%82%E8%AF%86/"/>
     
   </entry>
   
   <entry>
     <title>微信小程序</title>
-    <link href="http://yoursite.com/2016/11/25/weixinxiaochengxu/"/>
-    <id>http://yoursite.com/2016/11/25/weixinxiaochengxu/</id>
+    <link href="http://chenxianglong.me/2016/11/25/weixinxiaochengxu/"/>
+    <id>http://chenxianglong.me/2016/11/25/weixinxiaochengxu/</id>
     <published>2016-11-25T01:59:05.000Z</published>
     <updated>2016-11-25T06:13:58.152Z</updated>
     
@@ -68,17 +80,17 @@
     
     </summary>
     
-      <category term="WeChat小程序" scheme="http://yoursite.com/categories/WeChat%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="WeChat小程序" scheme="http://chenxianglong.me/categories/WeChat%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
     
-      <category term="微信小程序" scheme="http://yoursite.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="微信小程序" scheme="http://chenxianglong.me/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>hello world!</title>
-    <link href="http://yoursite.com/2016/11/17/hello-world-1/"/>
-    <id>http://yoursite.com/2016/11/17/hello-world-1/</id>
+    <link href="http://chenxianglong.me/2016/11/17/hello-world-1/"/>
+    <id>http://chenxianglong.me/2016/11/17/hello-world-1/</id>
     <published>2016-11-17T12:24:41.000Z</published>
     <updated>2016-11-25T06:17:43.540Z</updated>
     
@@ -92,12 +104,12 @@
     
     </summary>
     
-      <category term="hello world" scheme="http://yoursite.com/categories/hello-world/"/>
+      <category term="hello world" scheme="http://chenxianglong.me/categories/hello-world/"/>
     
     
-      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
+      <category term="hello" scheme="http://chenxianglong.me/tags/hello/"/>
     
-      <category term="world" scheme="http://yoursite.com/tags/world/"/>
+      <category term="world" scheme="http://chenxianglong.me/tags/world/"/>
     
   </entry>
   
